@@ -1,5 +1,14 @@
 # Basic Scientific Calculator
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Usage](#usage)
+4. [Example](#example)
+5. [Error Handling](#error-handling)
+6. [Contact](#contact)
+
 ## Overview
 
 This Python application is a Basic Scientific Calculator that supports a variety of mathematical operations, including basic arithmetic, exponentiation, square roots, and trigonometric functions. It also handles logarithms and factorials. The calculator provides results with trigonometric calculations rounded to two decimal places.
@@ -23,7 +32,7 @@ This Python application is a Basic Scientific Calculator that supports a variety
 
 ## Usage
 
-1. **Run the Calculator**: Execute the script using Python 3.x. 
+1. **Run the Calculator**: Execute the script using Python 3.x.
    ```bash
    python calculator.py
    ```
